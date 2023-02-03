@@ -18,7 +18,7 @@ This is simple QR code component
 
 ### Screenshot
 
-![./design/desktop-preview.jpg](./screenshot.jpg)
+![](./design/desktop-design.jpg)
 
 ## My process
 
@@ -40,5 +40,5 @@ This is simple QR code component
 
 ## Author
 
-- Website - [Ayupov Ilgiz](https://github.com/ilgiz-ayupov)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Github](https://github.com/ilgiz-ayupov)
+- Frontend Mentor - [@ilgiz-ayupov](https://www.frontendmentor.io/profile/yourusername)
