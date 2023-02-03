@@ -24,24 +24,30 @@
     <title>Frontend Mentor | QR code component</title>
   </head>
   <body>
-    <div class="flex h-screen items-center justify-center bg-gray-100">
+    <main class="bg-gray-100 h-screen flex flex-col justify-center items-center">
+      <h1 class="mb-5 text-center text-3xl">
+        Frontend Mentor - QR code component
+      </h1>
+
       <!-- QR code component -->
-      <div class="w-[255px] rounded-lg bg-white p-4 text-center shadow-lg">
+      <article
+        class="mx-auto w-64 rounded-lg bg-white p-4 text-center shadow-lg"
+      >
         <img
-          class="mb-5 inline-block rounded-lg transition-transform duration-500 hover:scale-125"
+          class="mb-5 rounded-lg"
           src="./images/image-qr-code.png"
           alt="qr code"
         />
 
-        <h1 class="mb-3 text-lg font-bold text-blue-900">
+        <h2 class="mb-3 text-lg font-bold text-blue-900">
           Improve yout front-end skills by building projects
-        </h1>
+        </h2>
 
         <p class="text-sm text-gray-500">
           Scan the QR code to visit Frontend Mentor and take your coding skills
           to the next level
         </p>
-      </div>
-    </div>
+      </article>
+    </main>
   </body>
 </html>
