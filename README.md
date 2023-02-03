@@ -18,7 +18,7 @@ This is simple QR code component
 
 ### Screenshot
 
-![](./design/desktop-design.jpg)
+![](./screenshot.png)
 
 ## My process
 
